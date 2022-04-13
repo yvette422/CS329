@@ -1,0 +1,145 @@
+ParkName,Month,OvernightType,Number
+Great Smoky Mountains,Jan,Misc Overnight Stay,0
+Great Smoky Mountains,Jan,Concessioner Lodging,0
+Great Smoky Mountains,Jan,Concessioner Camping,0
+Great Smoky Mountains,Jan,Tent Campers,571
+Great Smoky Mountains,Jan,RV Campers,1712
+Great Smoky Mountains,Jan,Backcountry Campers,2289
+Great Smoky Mountains,Feb,Misc Overnight Stay,0
+Great Smoky Mountains,Feb,Concessioner Lodging,0
+Great Smoky Mountains,Feb,Concessioner Camping,0
+Great Smoky Mountains,Feb,Tent Campers,392
+Great Smoky Mountains,Feb,RV Campers,611
+Great Smoky Mountains,Feb,Backcountry Campers,1472
+Great Smoky Mountains,Mar,Misc Overnight Stay,0
+Great Smoky Mountains,Mar,Concessioner Lodging,370
+Great Smoky Mountains,Mar,Concessioner Camping,0
+Great Smoky Mountains,Mar,Tent Campers,3627
+Great Smoky Mountains,Mar,RV Campers,3627
+Great Smoky Mountains,Mar,Backcountry Campers,9579
+Great Smoky Mountains,Apr,Misc Overnight Stay,474
+Great Smoky Mountains,Apr,Concessioner Lodging,1185
+Great Smoky Mountains,Apr,Concessioner Camping,0
+Great Smoky Mountains,Apr,Tent Campers,20784
+Great Smoky Mountains,Apr,RV Campers,10829
+Great Smoky Mountains,Apr,Backcountry Campers,17766
+Great Smoky Mountains,May,Misc Overnight Stay,2778
+Great Smoky Mountains,May,Concessioner Lodging,1414
+Great Smoky Mountains,May,Concessioner Camping,0
+Great Smoky Mountains,May,Tent Campers,27009
+Great Smoky Mountains,May,RV Campers,18735
+Great Smoky Mountains,May,Backcountry Campers,18103
+Great Smoky Mountains,Jun,Misc Overnight Stay,4571
+Great Smoky Mountains,Jun,Concessioner Lodging,1414
+Great Smoky Mountains,Jun,Concessioner Camping,0
+Great Smoky Mountains,Jun,Tent Campers,31877
+Great Smoky Mountains,Jun,RV Campers,28411
+Great Smoky Mountains,Jun,Backcountry Campers,13324
+Great Smoky Mountains,Jul,Misc Overnight Stay,3685
+Great Smoky Mountains,Jul,Concessioner Lodging,1477
+Great Smoky Mountains,Jul,Concessioner Camping,0
+Great Smoky Mountains,Jul,Tent Campers,32157
+Great Smoky Mountains,Jul,RV Campers,20048
+Great Smoky Mountains,Jul,Backcountry Campers,8554
+Great Smoky Mountains,Aug,Misc Overnight Stay,2939
+Great Smoky Mountains,Aug,Concessioner Lodging,1240
+Great Smoky Mountains,Aug,Concessioner Camping,0
+Great Smoky Mountains,Aug,Tent Campers,23252
+Great Smoky Mountains,Aug,RV Campers,14412
+Great Smoky Mountains,Aug,Backcountry Campers,6741
+Great Smoky Mountains,Sep,Misc Overnight Stay,1800
+Great Smoky Mountains,Sep,Concessioner Lodging,1254
+Great Smoky Mountains,Sep,Concessioner Camping,0
+Great Smoky Mountains,Sep,Tent Campers,18646
+Great Smoky Mountains,Sep,RV Campers,16252
+Great Smoky Mountains,Sep,Backcountry Campers,8415
+Great Smoky Mountains,Oct,Misc Overnight Stay,3317
+Great Smoky Mountains,Oct,Concessioner Lodging,1351
+Great Smoky Mountains,Oct,Concessioner Camping,0
+Great Smoky Mountains,Oct,Tent Campers,22779
+Great Smoky Mountains,Oct,RV Campers,22996
+Great Smoky Mountains,Oct,Backcountry Campers,13286
+Great Smoky Mountains,Nov,Misc Overnight Stay,0
+Great Smoky Mountains,Nov,Concessioner Lodging,837
+Great Smoky Mountains,Nov,Concessioner Camping,0
+Great Smoky Mountains,Nov,Tent Campers,7534
+Great Smoky Mountains,Nov,RV Campers,11940
+Great Smoky Mountains,Nov,Backcountry Campers,5907
+Great Smoky Mountains,Dec,Misc Overnight Stay,0
+Great Smoky Mountains,Dec,Concessioner Lodging,0
+Great Smoky Mountains,Dec,Concessioner Camping,0
+Great Smoky Mountains,Dec,Tent Campers,2804
+Great Smoky Mountains,Dec,RV Campers,1785
+Great Smoky Mountains,Dec,Backcountry Campers,2145
+Zion,Jan,Misc Overnight Stay,0
+Zion,Jan,Concessioner Lodging,1867
+Zion,Jan,Concessioner Camping,0
+Zion,Jan,Tent Campers,3086
+Zion,Jan,RV Campers,4891
+Zion,Jan,Backcountry Campers,233
+Zion,Feb,Misc Overnight Stay,0
+Zion,Feb,Concessioner Lodging,2609
+Zion,Feb,Concessioner Camping,0
+Zion,Feb,Tent Campers,2688
+Zion,Feb,RV Campers,5179
+Zion,Feb,Backcountry Campers,116
+Zion,Mar,Misc Overnight Stay,0
+Zion,Mar,Concessioner Lodging,5081
+Zion,Mar,Concessioner Camping,0
+Zion,Mar,Tent Campers,7940
+Zion,Mar,RV Campers,10085
+Zion,Mar,Backcountry Campers,1011
+Zion,Apr,Misc Overnight Stay,0
+Zion,Apr,Concessioner Lodging,5098
+Zion,Apr,Concessioner Camping,0
+Zion,Apr,Tent Campers,12007
+Zion,Apr,RV Campers,9341
+Zion,Apr,Backcountry Campers,2393
+Zion,May,Misc Overnight Stay,0
+Zion,May,Concessioner Lodging,5272
+Zion,May,Concessioner Camping,0
+Zion,May,Tent Campers,14807
+Zion,May,RV Campers,9503
+Zion,May,Backcountry Campers,2918
+Zion,Jun,Misc Overnight Stay,0
+Zion,Jun,Concessioner Lodging,5993
+Zion,Jun,Concessioner Camping,0
+Zion,Jun,Tent Campers,15669
+Zion,Jun,RV Campers,9358
+Zion,Jun,Backcountry Campers,1926
+Zion,Jul,Misc Overnight Stay,1788
+Zion,Jul,Concessioner Lodging,6437
+Zion,Jul,Concessioner Camping,0
+Zion,Jul,Tent Campers,21914
+Zion,Jul,RV Campers,8751
+Zion,Jul,Backcountry Campers,942
+Zion,Aug,Misc Overnight Stay,1551
+Zion,Aug,Concessioner Lodging,5754
+Zion,Aug,Concessioner Camping,0
+Zion,Aug,Tent Campers,21399
+Zion,Aug,RV Campers,7786
+Zion,Aug,Backcountry Campers,1206
+Zion,Sep,Misc Overnight Stay,1655
+Zion,Sep,Concessioner Lodging,4806
+Zion,Sep,Concessioner Camping,0
+Zion,Sep,Tent Campers,15670
+Zion,Sep,RV Campers,7615
+Zion,Sep,Backcountry Campers,1500
+Zion,Oct,Misc Overnight Stay,1765
+Zion,Oct,Concessioner Lodging,4652
+Zion,Oct,Concessioner Camping,0
+Zion,Oct,Tent Campers,11916
+Zion,Oct,RV Campers,7181
+Zion,Oct,Backcountry Campers,1769
+Zion,Nov,Misc Overnight Stay,1152
+Zion,Nov,Concessioner Lodging,4261
+Zion,Nov,Concessioner Camping,0
+Zion,Nov,Tent Campers,7298
+Zion,Nov,RV Campers,5431
+Zion,Nov,Backcountry Campers,931
+Zion,Dec,Misc Overnight Stay,58
+Zion,Dec,Concessioner Lodging,3624
+Zion,Dec,Concessioner Camping,0
+Zion,Dec,Tent Campers,4336
+Zion,Dec,RV Campers,4798
+Zion,Dec,Backcountry Campers,126
