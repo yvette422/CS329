@@ -1,0 +1,181 @@
+ParkName,Year,Visitors
+Great Smoky Mountains,2010,9463538
+Zion,2010,2825505
+Yellowstone,2010,3394326
+Grand Canyon,2010,4298178
+Rocky Mountain,2010,3176941
+Acadia,2010,2374645
+Grand Teton,2010,2587437
+Yosemite,2010,3951393
+Indiana Dunes,2010,1840513
+Glacier,2010,1853564
+Great Smoky Mountains,2011,9008830
+Zion,2011,2825505
+Yellowstone,2011,3394326
+Grand Canyon,2011,4298178
+Rocky Mountain,2011,3176941
+Acadia,2011,2374645
+Grand Teton,2011,2587437
+Yosemite,2011,3951393
+Indiana Dunes,2011,1840513
+Glacier,2011,1853564
+Great Smoky Mountains,2012,9685829
+Zion,2012,2973607
+Yellowstone,2012,3447729
+Grand Canyon,2012,4421352
+Rocky Mountain,2012,3229617
+Acadia,2012,2431052
+Grand Teton,2012,2705256
+Yosemite,2012,3853404
+Indiana Dunes,2012,1889381
+Glacier,2012,2162035
+Great Smoky Mountains,2013,9354695
+Zion,2013,2807387
+Yellowstone,2013,3188030
+Grand Canyon,2013,4564840
+Rocky Mountain,2013,2991141
+Acadia,2013,2254922
+Grand Teton,2013,2688794
+Yosemite,2013,3691191
+Indiana Dunes,2013,1681695
+Glacier,2013,2190374
+Great Smoky Mountains,2014,10099276
+Zion,2014,3189696
+Yellowstone,2014,3513484
+Grand Canyon,2014,4756771
+Rocky Mountain,2014,3434751
+Acadia,2014,2563129
+Grand Teton,2014,2791392
+Yosemite,2014,3882642
+Indiana Dunes,2014,1553372
+Glacier,2014,2338528
+Great Smoky Mountains,2015,10712674
+Zion,2015,3648846
+Yellowstone,2015,4097710
+Grand Canyon,2015,5520736
+Rocky Mountain,2015,4155916
+Acadia,2015,2811184
+Grand Teton,2015,3149921
+Yosemite,2015,4150217
+Indiana Dunes,2015,1640195
+Glacier,2015,2366056
+Great Smoky Mountains,2016,11312786
+Zion,2016,4295127
+Yellowstone,2016,4257177
+Grand Canyon,2016,5969811
+Rocky Mountain,2016,4517585
+Acadia,2016,3303393
+Grand Teton,2016,3270076
+Yosemite,2016,5028868
+Indiana Dunes,2016,1698223
+Glacier,2016,2946681
+Great Smoky Mountains,2017,11338893
+Zion,2017,4504812
+Yellowstone,2017,4116524
+Grand Canyon,2017,6254238
+Rocky Mountain,2017,4437215
+Acadia,2017,3509271
+Grand Teton,2017,3317000
+Yosemite,2017,4336890
+Indiana Dunes,2017,2158471
+Glacier,2017,3305512
+Great Smoky Mountains,2018,11421200
+Zion,2018,4320033
+Yellowstone,2018,4115000
+Grand Canyon,2018,6380495
+Rocky Mountain,2018,4590493
+Acadia,2018,3537575
+Grand Teton,2018,3491151
+Yosemite,2018,4009436
+Indiana Dunes,2018,1756079
+Glacier,2018,2965309
+Great Smoky Mountains,2019,12547743
+Zion,2019,4488268
+Yellowstone,2019,4020288
+Grand Canyon,2019,5974411
+Rocky Mountain,2019,4670053
+Acadia,2019,3437286
+Grand Teton,2019,3405614
+Yosemite,2019,4422861
+Indiana Dunes,2019,2134285
+Glacier,2019,3049839
+Great Smoky Mountains,2020,12095720
+Zion,2020,3591254
+Yellowstone,2020,3806306
+Grand Canyon,2020,2897098
+Rocky Mountain,2020,3305199
+Acadia,2020,2669034
+Grand Teton,2020,3289638
+Yosemite,2020,2268313
+Indiana Dunes,2020,2293106
+Glacier,2020,1698864
+Great Smoky Mountains,2021,14161548
+Zion,2021,5039835
+Yellowstone,2021,4860242
+Grand Canyon,2021,4532677
+Rocky Mountain,2021,4434848
+Acadia,2021,4069098
+Grand Teton,2021,3885230
+Yosemite,2021,3287595
+Indiana Dunes,2021,3177210
+Glacier,2021,3081656
+Joshua Tree,2010,1434976
+Joshua Tree,2011,1396237
+Joshua Tree,2012,1396117
+Joshua Tree,2013,1383340
+Joshua Tree,2014,1589904
+Joshua Tree,2015,2025756
+Joshua Tree,2016,2505286
+Joshua Tree,2017,2853619
+Joshua Tree,2018,2942382
+Joshua Tree,2019,2988547
+Joshua Tree,2020,2399542
+Joshua Tree,2021,3064400
+Olympic,2010,2844563
+Olympic,2011,2966502
+Olympic,2012,2824908
+Olympic,2013,3085340
+Olympic,2014,3243872
+Olympic,2015,3263761
+Olympic,2016,3390221
+Olympic,2017,3401996
+Olympic,2018,3104455
+Olympic,2019,3245806
+Olympic,2020,2499177
+Olympic,2021,2718925
+Cuyahoga Valley,2010,2492670
+Cuyahoga Valley,2011,2161185
+Cuyahoga Valley,2012,2299722
+Cuyahoga Valley,2013,2103010
+Cuyahoga Valley,2014,2189849
+Cuyahoga Valley,2015,2284612
+Cuyahoga Valley,2016,2423390
+Cuyahoga Valley,2017,2226879
+Cuyahoga Valley,2018,2096053
+Cuyahoga Valley,2019,2237997
+Cuyahoga Valley,2020,2755628
+Cuyahoga Valley,2021,2575275
+Hot Springs,2010,1311807
+Hot Springs,2011,1396354
+Hot Springs,2012,1302505
+Hot Springs,2013,1325719
+Hot Springs,2014,1424484
+Hot Springs,2015,1418162
+Hot Springs,2016,1544300
+Hot Springs,2017,1561616
+Hot Springs,2018,1506887
+Hot Springs,2019,1467153
+Hot Springs,2020,1348215
+Hot Springs,2021,2162884
+Bryce Canyon,2010,1285492
+Bryce Canyon,2011,1296000
+Bryce Canyon,2012,1385352
+Bryce Canyon,2013,1311875
+Bryce Canyon,2014,1435741
+Bryce Canyon,2015,1745804
+Bryce Canyon,2016,2365110
+Bryce Canyon,2017,2571684
+Bryce Canyon,2018,2679478
+Bryce Canyon,2019,2594904
+Bryce Canyon,2020,1464655
+Bryce Canyon,2021,2104600

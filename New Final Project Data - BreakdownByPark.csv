@@ -1,0 +1,1081 @@
+ParkName,Month,OvernightType,Number
+Great Smoky Mountains,Jan,Misc Overnight Stay,0
+Great Smoky Mountains,Jan,Concessioner Lodging,0
+Great Smoky Mountains,Jan,Concessioner Camping,0
+Great Smoky Mountains,Jan,Tent Campers,571
+Great Smoky Mountains,Jan,RV Campers,1712
+Great Smoky Mountains,Jan,Backcountry Campers,2289
+Great Smoky Mountains,Feb,Misc Overnight Stay,0
+Great Smoky Mountains,Feb,Concessioner Lodging,0
+Great Smoky Mountains,Feb,Concessioner Camping,0
+Great Smoky Mountains,Feb,Tent Campers,392
+Great Smoky Mountains,Feb,RV Campers,611
+Great Smoky Mountains,Feb,Backcountry Campers,1472
+Great Smoky Mountains,Mar,Misc Overnight Stay,0
+Great Smoky Mountains,Mar,Concessioner Lodging,370
+Great Smoky Mountains,Mar,Concessioner Camping,0
+Great Smoky Mountains,Mar,Tent Campers,3627
+Great Smoky Mountains,Mar,RV Campers,3627
+Great Smoky Mountains,Mar,Backcountry Campers,9579
+Great Smoky Mountains,Apr,Misc Overnight Stay,474
+Great Smoky Mountains,Apr,Concessioner Lodging,1185
+Great Smoky Mountains,Apr,Concessioner Camping,0
+Great Smoky Mountains,Apr,Tent Campers,20784
+Great Smoky Mountains,Apr,RV Campers,10829
+Great Smoky Mountains,Apr,Backcountry Campers,17766
+Great Smoky Mountains,May,Misc Overnight Stay,2778
+Great Smoky Mountains,May,Concessioner Lodging,1414
+Great Smoky Mountains,May,Concessioner Camping,0
+Great Smoky Mountains,May,Tent Campers,27009
+Great Smoky Mountains,May,RV Campers,18735
+Great Smoky Mountains,May,Backcountry Campers,18103
+Great Smoky Mountains,Jun,Misc Overnight Stay,4571
+Great Smoky Mountains,Jun,Concessioner Lodging,1414
+Great Smoky Mountains,Jun,Concessioner Camping,0
+Great Smoky Mountains,Jun,Tent Campers,31877
+Great Smoky Mountains,Jun,RV Campers,28411
+Great Smoky Mountains,Jun,Backcountry Campers,13324
+Great Smoky Mountains,Jul,Misc Overnight Stay,3685
+Great Smoky Mountains,Jul,Concessioner Lodging,1477
+Great Smoky Mountains,Jul,Concessioner Camping,0
+Great Smoky Mountains,Jul,Tent Campers,32157
+Great Smoky Mountains,Jul,RV Campers,20048
+Great Smoky Mountains,Jul,Backcountry Campers,8554
+Great Smoky Mountains,Aug,Misc Overnight Stay,2939
+Great Smoky Mountains,Aug,Concessioner Lodging,1240
+Great Smoky Mountains,Aug,Concessioner Camping,0
+Great Smoky Mountains,Aug,Tent Campers,23252
+Great Smoky Mountains,Aug,RV Campers,14412
+Great Smoky Mountains,Aug,Backcountry Campers,6741
+Great Smoky Mountains,Sep,Misc Overnight Stay,1800
+Great Smoky Mountains,Sep,Concessioner Lodging,1254
+Great Smoky Mountains,Sep,Concessioner Camping,0
+Great Smoky Mountains,Sep,Tent Campers,18646
+Great Smoky Mountains,Sep,RV Campers,16252
+Great Smoky Mountains,Sep,Backcountry Campers,8415
+Great Smoky Mountains,Oct,Misc Overnight Stay,3317
+Great Smoky Mountains,Oct,Concessioner Lodging,1351
+Great Smoky Mountains,Oct,Concessioner Camping,0
+Great Smoky Mountains,Oct,Tent Campers,22779
+Great Smoky Mountains,Oct,RV Campers,22996
+Great Smoky Mountains,Oct,Backcountry Campers,13286
+Great Smoky Mountains,Nov,Misc Overnight Stay,0
+Great Smoky Mountains,Nov,Concessioner Lodging,837
+Great Smoky Mountains,Nov,Concessioner Camping,0
+Great Smoky Mountains,Nov,Tent Campers,7534
+Great Smoky Mountains,Nov,RV Campers,11940
+Great Smoky Mountains,Nov,Backcountry Campers,5907
+Great Smoky Mountains,Dec,Misc Overnight Stay,0
+Great Smoky Mountains,Dec,Concessioner Lodging,0
+Great Smoky Mountains,Dec,Concessioner Camping,0
+Great Smoky Mountains,Dec,Tent Campers,2804
+Great Smoky Mountains,Dec,RV Campers,1785
+Great Smoky Mountains,Dec,Backcountry Campers,2145
+Zion,Jan,Misc Overnight Stay,0
+Zion,Jan,Concessioner Lodging,1867
+Zion,Jan,Concessioner Camping,0
+Zion,Jan,Tent Campers,3086
+Zion,Jan,RV Campers,4891
+Zion,Jan,Backcountry Campers,233
+Zion,Feb,Misc Overnight Stay,0
+Zion,Feb,Concessioner Lodging,2609
+Zion,Feb,Concessioner Camping,0
+Zion,Feb,Tent Campers,2688
+Zion,Feb,RV Campers,5179
+Zion,Feb,Backcountry Campers,116
+Zion,Mar,Misc Overnight Stay,0
+Zion,Mar,Concessioner Lodging,5081
+Zion,Mar,Concessioner Camping,0
+Zion,Mar,Tent Campers,7940
+Zion,Mar,RV Campers,10085
+Zion,Mar,Backcountry Campers,1011
+Zion,Apr,Misc Overnight Stay,0
+Zion,Apr,Concessioner Lodging,5098
+Zion,Apr,Concessioner Camping,0
+Zion,Apr,Tent Campers,12007
+Zion,Apr,RV Campers,9341
+Zion,Apr,Backcountry Campers,2393
+Zion,May,Misc Overnight Stay,0
+Zion,May,Concessioner Lodging,5272
+Zion,May,Concessioner Camping,0
+Zion,May,Tent Campers,14807
+Zion,May,RV Campers,9503
+Zion,May,Backcountry Campers,2918
+Zion,Jun,Misc Overnight Stay,0
+Zion,Jun,Concessioner Lodging,5993
+Zion,Jun,Concessioner Camping,0
+Zion,Jun,Tent Campers,15669
+Zion,Jun,RV Campers,9358
+Zion,Jun,Backcountry Campers,1926
+Zion,Jul,Misc Overnight Stay,1788
+Zion,Jul,Concessioner Lodging,6437
+Zion,Jul,Concessioner Camping,0
+Zion,Jul,Tent Campers,21914
+Zion,Jul,RV Campers,8751
+Zion,Jul,Backcountry Campers,942
+Zion,Aug,Misc Overnight Stay,1551
+Zion,Aug,Concessioner Lodging,5754
+Zion,Aug,Concessioner Camping,0
+Zion,Aug,Tent Campers,21399
+Zion,Aug,RV Campers,7786
+Zion,Aug,Backcountry Campers,1206
+Zion,Sep,Misc Overnight Stay,1655
+Zion,Sep,Concessioner Lodging,4806
+Zion,Sep,Concessioner Camping,0
+Zion,Sep,Tent Campers,15670
+Zion,Sep,RV Campers,7615
+Zion,Sep,Backcountry Campers,1500
+Zion,Oct,Misc Overnight Stay,1765
+Zion,Oct,Concessioner Lodging,4652
+Zion,Oct,Concessioner Camping,0
+Zion,Oct,Tent Campers,11916
+Zion,Oct,RV Campers,7181
+Zion,Oct,Backcountry Campers,1769
+Zion,Nov,Misc Overnight Stay,1152
+Zion,Nov,Concessioner Lodging,4261
+Zion,Nov,Concessioner Camping,0
+Zion,Nov,Tent Campers,7298
+Zion,Nov,RV Campers,5431
+Zion,Nov,Backcountry Campers,931
+Zion,Dec,Misc Overnight Stay,58
+Zion,Dec,Concessioner Lodging,3624
+Zion,Dec,Concessioner Camping,0
+Zion,Dec,Tent Campers,4336
+Zion,Dec,RV Campers,4798
+Zion,Dec,Backcountry Campers,126
+Yellowstone,Jan,Misc Overnight Stay,0
+Yellowstone,Jan,Concessioner Lodging,1014
+Yellowstone,Jan,Concessioner Camping,0
+Yellowstone,Jan,Tent Campers,115
+Yellowstone,Jan,RV Campers,422
+Yellowstone,Jan,Backcountry Campers,102
+Yellowstone,Feb,Misc Overnight Stay,0
+Yellowstone,Feb,Concessioner Lodging,1020
+Yellowstone,Feb,Concessioner Camping,0
+Yellowstone,Feb,Tent Campers,93
+Yellowstone,Feb,RV Campers,275
+Yellowstone,Feb,Backcountry Campers,93
+Yellowstone,Mar,Misc Overnight Stay,0
+Yellowstone,Mar,Concessioner Lodging,853
+Yellowstone,Mar,Concessioner Camping,0
+Yellowstone,Mar,Tent Campers,250
+Yellowstone,Mar,RV Campers,582
+Yellowstone,Mar,Backcountry Campers,151
+Yellowstone,Apr,Misc Overnight Stay,0
+Yellowstone,Apr,Concessioner Lodging,0
+Yellowstone,Apr,Concessioner Camping,0
+Yellowstone,Apr,Tent Campers,534
+Yellowstone,Apr,RV Campers,2003
+Yellowstone,Apr,Backcountry Campers,179
+Yellowstone,May,Misc Overnight Stay,0
+Yellowstone,May,Concessioner Lodging,19008
+Yellowstone,May,Concessioner Camping,18096
+Yellowstone,May,Tent Campers,2970
+Yellowstone,May,RV Campers,5162
+Yellowstone,May,Backcountry Campers,1263
+Yellowstone,Jun,Misc Overnight Stay,382
+Yellowstone,Jun,Concessioner Lodging,76656
+Yellowstone,Jun,Concessioner Camping,89782
+Yellowstone,Jun,Tent Campers,9760
+Yellowstone,Jun,RV Campers,8614
+Yellowstone,Jun,Backcountry Campers,5712
+Yellowstone,Jul,Misc Overnight Stay,951
+Yellowstone,Jul,Concessioner Lodging,99731
+Yellowstone,Jul,Concessioner Camping,138067
+Yellowstone,Jul,Tent Campers,14682
+Yellowstone,Jul,RV Campers,11094
+Yellowstone,Jul,Backcountry Campers,13659
+Yellowstone,Aug,Misc Overnight Stay,1461
+Yellowstone,Aug,Concessioner Lodging,93787
+Yellowstone,Aug,Concessioner Camping,123504
+Yellowstone,Aug,Tent Campers,12397
+Yellowstone,Aug,RV Campers,11677
+Yellowstone,Aug,Backcountry Campers,13841
+Yellowstone,Sep,Misc Overnight Stay,523
+Yellowstone,Sep,Concessioner Lodging,94959
+Yellowstone,Sep,Concessioner Camping,62496
+Yellowstone,Sep,Tent Campers,8467
+Yellowstone,Sep,RV Campers,12573
+Yellowstone,Sep,Backcountry Campers,7370
+Yellowstone,Oct,Misc Overnight Stay,6
+Yellowstone,Oct,Concessioner Lodging,18485
+Yellowstone,Oct,Concessioner Camping,10771
+Yellowstone,Oct,Tent Campers,2682
+Yellowstone,Oct,RV Campers,5840
+Yellowstone,Oct,Backcountry Campers,909
+Yellowstone,Nov,Misc Overnight Stay,0
+Yellowstone,Nov,Concessioner Lodging,2024
+Yellowstone,Nov,Concessioner Camping,0
+Yellowstone,Nov,Tent Campers,301
+Yellowstone,Nov,RV Campers,893
+Yellowstone,Nov,Backcountry Campers,62
+Yellowstone,Dec,Misc Overnight Stay,0
+Yellowstone,Dec,Concessioner Lodging,5385
+Yellowstone,Dec,Concessioner Camping,0
+Yellowstone,Dec,Tent Campers,160
+Yellowstone,Dec,RV Campers,230
+Yellowstone,Dec,Backcountry Campers,13
+Grand Canyon,Jan,Misc Overnight Stay,0
+Grand Canyon,Jan,Concessioner Lodging,10614
+Grand Canyon,Jan,Concessioner Camping,1321
+Grand Canyon,Jan,Tent Campers,2237
+Grand Canyon,Jan,RV Campers,1004
+Grand Canyon,Jan,Backcountry Campers,8955
+Grand Canyon,Feb,Misc Overnight Stay,0
+Grand Canyon,Feb,Concessioner Lodging,14008
+Grand Canyon,Feb,Concessioner Camping,1644
+Grand Canyon,Feb,Tent Campers,1930
+Grand Canyon,Feb,RV Campers,832
+Grand Canyon,Feb,Backcountry Campers,9436
+Grand Canyon,Mar,Misc Overnight Stay,0
+Grand Canyon,Mar,Concessioner Lodging,28808
+Grand Canyon,Mar,Concessioner Camping,3929
+Grand Canyon,Mar,Tent Campers,9304
+Grand Canyon,Mar,RV Campers,4209
+Grand Canyon,Mar,Backcountry Campers,24807
+Grand Canyon,Apr,Misc Overnight Stay,0
+Grand Canyon,Apr,Concessioner Lodging,33144
+Grand Canyon,Apr,Concessioner Camping,3687
+Grand Canyon,Apr,Tent Campers,12081
+Grand Canyon,Apr,RV Campers,5091
+Grand Canyon,Apr,Backcountry Campers,26535
+Grand Canyon,May,Misc Overnight Stay,0
+Grand Canyon,May,Concessioner Lodging,34006
+Grand Canyon,May,Concessioner Camping,3068
+Grand Canyon,May,Tent Campers,14766
+Grand Canyon,May,RV Campers,6186
+Grand Canyon,May,Backcountry Campers,51569
+Grand Canyon,Jun,Misc Overnight Stay,1389
+Grand Canyon,Jun,Concessioner Lodging,55770
+Grand Canyon,Jun,Concessioner Camping,4669
+Grand Canyon,Jun,Tent Campers,17487
+Grand Canyon,Jun,RV Campers,8662
+Grand Canyon,Jun,Backcountry Campers,40644
+Grand Canyon,Jul,Misc Overnight Stay,2170
+Grand Canyon,Jul,Concessioner Lodging,42547
+Grand Canyon,Jul,Concessioner Camping,5152
+Grand Canyon,Jul,Tent Campers,16241
+Grand Canyon,Jul,RV Campers,8104
+Grand Canyon,Jul,Backcountry Campers,36615
+Grand Canyon,Aug,Misc Overnight Stay,1240
+Grand Canyon,Aug,Concessioner Lodging,33968
+Grand Canyon,Aug,Concessioner Camping,3919
+Grand Canyon,Aug,Tent Campers,11177
+Grand Canyon,Aug,RV Campers,5583
+Grand Canyon,Aug,Backcountry Campers,33503
+Grand Canyon,Sep,Misc Overnight Stay,1320
+Grand Canyon,Sep,Concessioner Lodging,41006
+Grand Canyon,Sep,Concessioner Camping,2956
+Grand Canyon,Sep,Tent Campers,13400
+Grand Canyon,Sep,RV Campers,6487
+Grand Canyon,Sep,Backcountry Campers,36544
+Grand Canyon,Oct,Misc Overnight Stay,1325
+Grand Canyon,Oct,Concessioner Lodging,35445
+Grand Canyon,Oct,Concessioner Camping,2765
+Grand Canyon,Oct,Tent Campers,12779
+Grand Canyon,Oct,RV Campers,5986
+Grand Canyon,Oct,Backcountry Campers,32138
+Grand Canyon,Nov,Misc Overnight Stay,547
+Grand Canyon,Nov,Concessioner Lodging,32006
+Grand Canyon,Nov,Concessioner Camping,2993
+Grand Canyon,Nov,Tent Campers,5939
+Grand Canyon,Nov,RV Campers,2479
+Grand Canyon,Nov,Backcountry Campers,19812
+Grand Canyon,Dec,Misc Overnight Stay,0
+Grand Canyon,Dec,Concessioner Lodging,32209
+Grand Canyon,Dec,Concessioner Camping,2190
+Grand Canyon,Dec,Tent Campers,2190
+Grand Canyon,Dec,RV Campers,1038
+Grand Canyon,Dec,Backcountry Campers,11737
+Rocky Mountain,Jan,Misc Overnight Stay,0
+Rocky Mountain,Jan,Concessioner Lodging,0
+Rocky Mountain,Jan,Concessioner Camping,0
+Rocky Mountain,Jan,Tent Campers,198
+Rocky Mountain,Jan,RV Campers,186
+Rocky Mountain,Jan,Backcountry Campers,63
+Rocky Mountain,Feb,Misc Overnight Stay,0
+Rocky Mountain,Feb,Concessioner Lodging,0
+Rocky Mountain,Feb,Concessioner Camping,0
+Rocky Mountain,Feb,Tent Campers,186
+Rocky Mountain,Feb,RV Campers,273
+Rocky Mountain,Feb,Backcountry Campers,44
+Rocky Mountain,Mar,Misc Overnight Stay,0
+Rocky Mountain,Mar,Concessioner Lodging,0
+Rocky Mountain,Mar,Concessioner Camping,0
+Rocky Mountain,Mar,Tent Campers,435
+Rocky Mountain,Mar,RV Campers,351
+Rocky Mountain,Mar,Backcountry Campers,65
+Rocky Mountain,Apr,Misc Overnight Stay,0
+Rocky Mountain,Apr,Concessioner Lodging,0
+Rocky Mountain,Apr,Concessioner Camping,0
+Rocky Mountain,Apr,Tent Campers,1278
+Rocky Mountain,Apr,RV Campers,1311
+Rocky Mountain,Apr,Backcountry Campers,141
+Rocky Mountain,May,Misc Overnight Stay,0
+Rocky Mountain,May,Concessioner Lodging,0
+Rocky Mountain,May,Concessioner Camping,0
+Rocky Mountain,May,Tent Campers,3915
+Rocky Mountain,May,RV Campers,2562
+Rocky Mountain,May,Backcountry Campers,1974
+Rocky Mountain,Jun,Misc Overnight Stay,0
+Rocky Mountain,Jun,Concessioner Lodging,0
+Rocky Mountain,Jun,Concessioner Camping,0
+Rocky Mountain,Jun,Tent Campers,11589
+Rocky Mountain,Jun,RV Campers,6144
+Rocky Mountain,Jun,Backcountry Campers,6835
+Rocky Mountain,Jul,Misc Overnight Stay,0
+Rocky Mountain,Jul,Concessioner Lodging,0
+Rocky Mountain,Jul,Concessioner Camping,0
+Rocky Mountain,Jul,Tent Campers,12606
+Rocky Mountain,Jul,RV Campers,5985
+Rocky Mountain,Jul,Backcountry Campers,11939
+Rocky Mountain,Aug,Misc Overnight Stay,0
+Rocky Mountain,Aug,Concessioner Lodging,0
+Rocky Mountain,Aug,Concessioner Camping,0
+Rocky Mountain,Aug,Tent Campers,12447
+Rocky Mountain,Aug,RV Campers,5784
+Rocky Mountain,Aug,Backcountry Campers,10226
+Rocky Mountain,Sep,Misc Overnight Stay,0
+Rocky Mountain,Sep,Concessioner Lodging,0
+Rocky Mountain,Sep,Concessioner Camping,0
+Rocky Mountain,Sep,Tent Campers,8730
+Rocky Mountain,Sep,RV Campers,5445
+Rocky Mountain,Sep,Backcountry Campers,6184
+Rocky Mountain,Oct,Misc Overnight Stay,0
+Rocky Mountain,Oct,Concessioner Lodging,0
+Rocky Mountain,Oct,Concessioner Camping,0
+Rocky Mountain,Oct,Tent Campers,3627
+Rocky Mountain,Oct,RV Campers,2805
+Rocky Mountain,Oct,Backcountry Campers,1760
+Rocky Mountain,Nov,Misc Overnight Stay,0
+Rocky Mountain,Nov,Concessioner Lodging,0
+Rocky Mountain,Nov,Concessioner Camping,0
+Rocky Mountain,Nov,Tent Campers,708
+Rocky Mountain,Nov,RV Campers,948
+Rocky Mountain,Nov,Backcountry Campers,103
+Rocky Mountain,Dec,Misc Overnight Stay,0
+Rocky Mountain,Dec,Concessioner Lodging,0
+Rocky Mountain,Dec,Concessioner Camping,0
+Rocky Mountain,Dec,Tent Campers,201
+Rocky Mountain,Dec,RV Campers,354
+Rocky Mountain,Dec,Backcountry Campers,50
+Acadia,Jan,Misc Overnight Stay,0
+Acadia,Jan,Concessioner Lodging,0
+Acadia,Jan,Concessioner Camping,0
+Acadia,Jan,Tent Campers,0
+Acadia,Jan,RV Campers,0
+Acadia,Jan,Backcountry Campers,0
+Acadia,Feb,Misc Overnight Stay,0
+Acadia,Feb,Concessioner Lodging,0
+Acadia,Feb,Concessioner Camping,0
+Acadia,Feb,Tent Campers,0
+Acadia,Feb,RV Campers,0
+Acadia,Feb,Backcountry Campers,0
+Acadia,Mar,Misc Overnight Stay,0
+Acadia,Mar,Concessioner Lodging,0
+Acadia,Mar,Concessioner Camping,0
+Acadia,Mar,Tent Campers,0
+Acadia,Mar,RV Campers,0
+Acadia,Mar,Backcountry Campers,0
+Acadia,Apr,Misc Overnight Stay,0
+Acadia,Apr,Concessioner Lodging,0
+Acadia,Apr,Concessioner Camping,0
+Acadia,Apr,Tent Campers,0
+Acadia,Apr,RV Campers,0
+Acadia,Apr,Backcountry Campers,0
+Acadia,May,Misc Overnight Stay,0
+Acadia,May,Concessioner Lodging,0
+Acadia,May,Concessioner Camping,19
+Acadia,May,Tent Campers,7992
+Acadia,May,RV Campers,2460
+Acadia,May,Backcountry Campers,0
+Acadia,Jun,Misc Overnight Stay,0
+Acadia,Jun,Concessioner Lodging,0
+Acadia,Jun,Concessioner Camping,294
+Acadia,Jun,Tent Campers,16794
+Acadia,Jun,RV Campers,7186
+Acadia,Jun,Backcountry Campers,161
+Acadia,Jul,Misc Overnight Stay,0
+Acadia,Jul,Concessioner Lodging,0
+Acadia,Jul,Concessioner Camping,205
+Acadia,Jul,Tent Campers,27930
+Acadia,Jul,RV Campers,9880
+Acadia,Jul,Backcountry Campers,390
+Acadia,Aug,Misc Overnight Stay,0
+Acadia,Aug,Concessioner Lodging,0
+Acadia,Aug,Concessioner Camping,419
+Acadia,Aug,Tent Campers,28405
+Acadia,Aug,RV Campers,8986
+Acadia,Aug,Backcountry Campers,534
+Acadia,Sep,Misc Overnight Stay,0
+Acadia,Sep,Concessioner Lodging,0
+Acadia,Sep,Concessioner Camping,446
+Acadia,Sep,Tent Campers,19035
+Acadia,Sep,RV Campers,8854
+Acadia,Sep,Backcountry Campers,386
+Acadia,Oct,Misc Overnight Stay,0
+Acadia,Oct,Concessioner Lodging,0
+Acadia,Oct,Concessioner Camping,224
+Acadia,Oct,Tent Campers,7602
+Acadia,Oct,RV Campers,3306
+Acadia,Oct,Backcountry Campers,141
+Acadia,Nov,Misc Overnight Stay,0
+Acadia,Nov,Concessioner Lodging,0
+Acadia,Nov,Concessioner Camping,0
+Acadia,Nov,Tent Campers,0
+Acadia,Nov,RV Campers,0
+Acadia,Nov,Backcountry Campers,0
+Acadia,Dec,Misc Overnight Stay,0
+Acadia,Dec,Concessioner Lodging,0
+Acadia,Dec,Concessioner Camping,0
+Acadia,Dec,Tent Campers,0
+Acadia,Dec,RV Campers,0
+Acadia,Dec,Backcountry Campers,0
+Grand Teton,Jan,Misc Overnight Stay,0
+Grand Teton,Jan,Concessioner Lodging,0
+Grand Teton,Jan,Concessioner Camping,0
+Grand Teton,Jan,Tent Campers,0
+Grand Teton,Jan,RV Campers,0
+Grand Teton,Jan,Backcountry Campers,117
+Grand Teton,Feb,Misc Overnight Stay,0
+Grand Teton,Feb,Concessioner Lodging,0
+Grand Teton,Feb,Concessioner Camping,0
+Grand Teton,Feb,Tent Campers,0
+Grand Teton,Feb,RV Campers,0
+Grand Teton,Feb,Backcountry Campers,30
+Grand Teton,Mar,Misc Overnight Stay,0
+Grand Teton,Mar,Concessioner Lodging,0
+Grand Teton,Mar,Concessioner Camping,0
+Grand Teton,Mar,Tent Campers,0
+Grand Teton,Mar,RV Campers,0
+Grand Teton,Mar,Backcountry Campers,142
+Grand Teton,Apr,Misc Overnight Stay,0
+Grand Teton,Apr,Concessioner Lodging,0
+Grand Teton,Apr,Concessioner Camping,280
+Grand Teton,Apr,Tent Campers,0
+Grand Teton,Apr,RV Campers,0
+Grand Teton,Apr,Backcountry Campers,139
+Grand Teton,May,Misc Overnight Stay,0
+Grand Teton,May,Concessioner Lodging,10106
+Grand Teton,May,Concessioner Camping,35842
+Grand Teton,May,Tent Campers,0
+Grand Teton,May,RV Campers,0
+Grand Teton,May,Backcountry Campers,1621
+Grand Teton,Jun,Misc Overnight Stay,0
+Grand Teton,Jun,Concessioner Lodging,44838
+Grand Teton,Jun,Concessioner Camping,84554
+Grand Teton,Jun,Tent Campers,0
+Grand Teton,Jun,RV Campers,0
+Grand Teton,Jun,Backcountry Campers,6395
+Grand Teton,Jul,Misc Overnight Stay,0
+Grand Teton,Jul,Concessioner Lodging,56754
+Grand Teton,Jul,Concessioner Camping,90326
+Grand Teton,Jul,Tent Campers,0
+Grand Teton,Jul,RV Campers,0
+Grand Teton,Jul,Backcountry Campers,13507
+Grand Teton,Aug,Misc Overnight Stay,0
+Grand Teton,Aug,Concessioner Lodging,50126
+Grand Teton,Aug,Concessioner Camping,89972
+Grand Teton,Aug,Tent Campers,0
+Grand Teton,Aug,RV Campers,0
+Grand Teton,Aug,Backcountry Campers,14621
+Grand Teton,Sep,Misc Overnight Stay,0
+Grand Teton,Sep,Concessioner Lodging,38076
+Grand Teton,Sep,Concessioner Camping,74348
+Grand Teton,Sep,Tent Campers,0
+Grand Teton,Sep,RV Campers,0
+Grand Teton,Sep,Backcountry Campers,7229
+Grand Teton,Oct,Misc Overnight Stay,0
+Grand Teton,Oct,Concessioner Lodging,3127
+Grand Teton,Oct,Concessioner Camping,11338
+Grand Teton,Oct,Tent Campers,0
+Grand Teton,Oct,RV Campers,0
+Grand Teton,Oct,Backcountry Campers,624
+Grand Teton,Nov,Misc Overnight Stay,0
+Grand Teton,Nov,Concessioner Lodging,0
+Grand Teton,Nov,Concessioner Camping,0
+Grand Teton,Nov,Tent Campers,0
+Grand Teton,Nov,RV Campers,0
+Grand Teton,Nov,Backcountry Campers,0
+Grand Teton,Dec,Misc Overnight Stay,0
+Grand Teton,Dec,Concessioner Lodging,100
+Grand Teton,Dec,Concessioner Camping,0
+Grand Teton,Dec,Tent Campers,0
+Grand Teton,Dec,RV Campers,0
+Grand Teton,Dec,Backcountry Campers,10
+Yosemite,Jan,Misc Overnight Stay,0
+Yosemite,Jan,Concessioner Lodging,0
+Yosemite,Jan,Concessioner Camping,0
+Yosemite,Jan,Tent Campers,0
+Yosemite,Jan,RV Campers,0
+Yosemite,Jan,Backcountry Campers,0
+Yosemite,Feb,Misc Overnight Stay,0
+Yosemite,Feb,Concessioner Lodging,12662
+Yosemite,Feb,Concessioner Camping,0
+Yosemite,Feb,Tent Campers,1429
+Yosemite,Feb,RV Campers,712
+Yosemite,Feb,Backcountry Campers,350
+Yosemite,Mar,Misc Overnight Stay,0
+Yosemite,Mar,Concessioner Lodging,25321
+Yosemite,Mar,Concessioner Camping,0
+Yosemite,Mar,Tent Campers,2543
+Yosemite,Mar,RV Campers,1620
+Yosemite,Mar,Backcountry Campers,428
+Yosemite,Apr,Misc Overnight Stay,0
+Yosemite,Apr,Concessioner Lodging,47330
+Yosemite,Apr,Concessioner Camping,0
+Yosemite,Apr,Tent Campers,10245
+Yosemite,Apr,RV Campers,11768
+Yosemite,Apr,Backcountry Campers,1606
+Yosemite,May,Misc Overnight Stay,0
+Yosemite,May,Concessioner Lodging,52535
+Yosemite,May,Concessioner Camping,0
+Yosemite,May,Tent Campers,18551
+Yosemite,May,RV Campers,10408
+Yosemite,May,Backcountry Campers,10846
+Yosemite,Jun,Misc Overnight Stay,411
+Yosemite,Jun,Concessioner Lodging,83353
+Yosemite,Jun,Concessioner Camping,0
+Yosemite,Jun,Tent Campers,26205
+Yosemite,Jun,RV Campers,17780
+Yosemite,Jun,Backcountry Campers,38385
+Yosemite,Jul,Misc Overnight Stay,567
+Yosemite,Jul,Concessioner Lodging,69092
+Yosemite,Jul,Concessioner Camping,0
+Yosemite,Jul,Tent Campers,33774
+Yosemite,Jul,RV Campers,28576
+Yosemite,Jul,Backcountry Campers,52142
+Yosemite,Aug,Misc Overnight Stay,1144
+Yosemite,Aug,Concessioner Lodging,64878
+Yosemite,Aug,Concessioner Camping,0
+Yosemite,Aug,Tent Campers,37871
+Yosemite,Aug,RV Campers,28396
+Yosemite,Aug,Backcountry Campers,37842
+Yosemite,Sep,Misc Overnight Stay,986
+Yosemite,Sep,Concessioner Lodging,72034
+Yosemite,Sep,Concessioner Camping,0
+Yosemite,Sep,Tent Campers,26308
+Yosemite,Sep,RV Campers,23096
+Yosemite,Sep,Backcountry Campers,25463
+Yosemite,Oct,Misc Overnight Stay,56
+Yosemite,Oct,Concessioner Lodging,48002
+Yosemite,Oct,Concessioner Camping,0
+Yosemite,Oct,Tent Campers,17512
+Yosemite,Oct,RV Campers,13584
+Yosemite,Oct,Backcountry Campers,6934
+Yosemite,Nov,Misc Overnight Stay,0
+Yosemite,Nov,Concessioner Lodging,42394
+Yosemite,Nov,Concessioner Camping,0
+Yosemite,Nov,Tent Campers,8927
+Yosemite,Nov,RV Campers,8712
+Yosemite,Nov,Backcountry Campers,796
+Yosemite,Dec,Misc Overnight Stay,0
+Yosemite,Dec,Concessioner Lodging,32497
+Yosemite,Dec,Concessioner Camping,0
+Yosemite,Dec,Tent Campers,4814
+Yosemite,Dec,RV Campers,4540
+Yosemite,Dec,Backcountry Campers,47
+Indiana Dunes,Jan,Misc Overnight Stay,0
+Indiana Dunes,Jan,Concessioner Lodging,0
+Indiana Dunes,Jan,Concessioner Camping,0
+Indiana Dunes,Jan,Tent Campers,0
+Indiana Dunes,Jan,RV Campers,0
+Indiana Dunes,Jan,Backcountry Campers,0
+Indiana Dunes,Feb,Misc Overnight Stay,0
+Indiana Dunes,Feb,Concessioner Lodging,0
+Indiana Dunes,Feb,Concessioner Camping,0
+Indiana Dunes,Feb,Tent Campers,0
+Indiana Dunes,Feb,RV Campers,0
+Indiana Dunes,Feb,Backcountry Campers,0
+Indiana Dunes,Mar,Misc Overnight Stay,0
+Indiana Dunes,Mar,Concessioner Lodging,0
+Indiana Dunes,Mar,Concessioner Camping,0
+Indiana Dunes,Mar,Tent Campers,0
+Indiana Dunes,Mar,RV Campers,0
+Indiana Dunes,Mar,Backcountry Campers,0
+Indiana Dunes,Apr,Misc Overnight Stay,0
+Indiana Dunes,Apr,Concessioner Lodging,0
+Indiana Dunes,Apr,Concessioner Camping,0
+Indiana Dunes,Apr,Tent Campers,2691
+Indiana Dunes,Apr,RV Campers,877
+Indiana Dunes,Apr,Backcountry Campers,0
+Indiana Dunes,May,Misc Overnight Stay,0
+Indiana Dunes,May,Concessioner Lodging,0
+Indiana Dunes,May,Concessioner Camping,0
+Indiana Dunes,May,Tent Campers,2855
+Indiana Dunes,May,RV Campers,1221
+Indiana Dunes,May,Backcountry Campers,0
+Indiana Dunes,Jun,Misc Overnight Stay,0
+Indiana Dunes,Jun,Concessioner Lodging,0
+Indiana Dunes,Jun,Concessioner Camping,0
+Indiana Dunes,Jun,Tent Campers,3267
+Indiana Dunes,Jun,RV Campers,1172
+Indiana Dunes,Jun,Backcountry Campers,0
+Indiana Dunes,Jul,Misc Overnight Stay,0
+Indiana Dunes,Jul,Concessioner Lodging,0
+Indiana Dunes,Jul,Concessioner Camping,0
+Indiana Dunes,Jul,Tent Campers,2821
+Indiana Dunes,Jul,RV Campers,1414
+Indiana Dunes,Jul,Backcountry Campers,0
+Indiana Dunes,Aug,Misc Overnight Stay,0
+Indiana Dunes,Aug,Concessioner Lodging,0
+Indiana Dunes,Aug,Concessioner Camping,0
+Indiana Dunes,Aug,Tent Campers,4607
+Indiana Dunes,Aug,RV Campers,1271
+Indiana Dunes,Aug,Backcountry Campers,0
+Indiana Dunes,Sep,Misc Overnight Stay,0
+Indiana Dunes,Sep,Concessioner Lodging,0
+Indiana Dunes,Sep,Concessioner Camping,0
+Indiana Dunes,Sep,Tent Campers,3298
+Indiana Dunes,Sep,RV Campers,1479
+Indiana Dunes,Sep,Backcountry Campers,0
+Indiana Dunes,Oct,Misc Overnight Stay,0
+Indiana Dunes,Oct,Concessioner Lodging,0
+Indiana Dunes,Oct,Concessioner Camping,0
+Indiana Dunes,Oct,Tent Campers,1916
+Indiana Dunes,Oct,RV Campers,477
+Indiana Dunes,Oct,Backcountry Campers,0
+Indiana Dunes,Nov,Misc Overnight Stay,0
+Indiana Dunes,Nov,Concessioner Lodging,0
+Indiana Dunes,Nov,Concessioner Camping,0
+Indiana Dunes,Nov,Tent Campers,19
+Indiana Dunes,Nov,RV Campers,6
+Indiana Dunes,Nov,Backcountry Campers,0
+Indiana Dunes,Dec,Misc Overnight Stay,0
+Indiana Dunes,Dec,Concessioner Lodging,0
+Indiana Dunes,Dec,Concessioner Camping,0
+Indiana Dunes,Dec,Tent Campers,0
+Indiana Dunes,Dec,RV Campers,0
+Indiana Dunes,Dec,Backcountry Campers,0
+Glacier,Jan,Misc Overnight Stay,0
+Glacier,Jan,Concessioner Lodging,0
+Glacier,Jan,Concessioner Camping,0
+Glacier,Jan,Tent Campers,58
+Glacier,Jan,RV Campers,48
+Glacier,Jan,Backcountry Campers,41
+Glacier,Feb,Misc Overnight Stay,0
+Glacier,Feb,Concessioner Lodging,0
+Glacier,Feb,Concessioner Camping,0
+Glacier,Feb,Tent Campers,12
+Glacier,Feb,RV Campers,30
+Glacier,Feb,Backcountry Campers,27
+Glacier,Mar,Misc Overnight Stay,0
+Glacier,Mar,Concessioner Lodging,0
+Glacier,Mar,Concessioner Camping,0
+Glacier,Mar,Tent Campers,72
+Glacier,Mar,RV Campers,39
+Glacier,Mar,Backcountry Campers,104
+Glacier,Apr,Misc Overnight Stay,0
+Glacier,Apr,Concessioner Lodging,0
+Glacier,Apr,Concessioner Camping,0
+Glacier,Apr,Tent Campers,142
+Glacier,Apr,RV Campers,378
+Glacier,Apr,Backcountry Campers,109
+Glacier,May,Misc Overnight Stay,43
+Glacier,May,Concessioner Lodging,2140
+Glacier,May,Concessioner Camping,0
+Glacier,May,Tent Campers,3440
+Glacier,May,RV Campers,4368
+Glacier,May,Backcountry Campers,357
+Glacier,Jun,Misc Overnight Stay,139
+Glacier,Jun,Concessioner Lodging,12699
+Glacier,Jun,Concessioner Camping,0
+Glacier,Jun,Tent Campers,16220
+Glacier,Jun,RV Campers,19143
+Glacier,Jun,Backcountry Campers,4040
+Glacier,Jul,Misc Overnight Stay,2439
+Glacier,Jul,Concessioner Lodging,16010
+Glacier,Jul,Concessioner Camping,0
+Glacier,Jul,Tent Campers,26824
+Glacier,Jul,RV Campers,22626
+Glacier,Jul,Backcountry Campers,10082
+Glacier,Aug,Misc Overnight Stay,1624
+Glacier,Aug,Concessioner Lodging,15926
+Glacier,Aug,Concessioner Camping,0
+Glacier,Aug,Tent Campers,23272
+Glacier,Aug,RV Campers,22323
+Glacier,Aug,Backcountry Campers,9951
+Glacier,Sep,Misc Overnight Stay,252
+Glacier,Sep,Concessioner Lodging,7735
+Glacier,Sep,Concessioner Camping,0
+Glacier,Sep,Tent Campers,10002
+Glacier,Sep,RV Campers,14304
+Glacier,Sep,Backcountry Campers,8200
+Glacier,Oct,Misc Overnight Stay,0
+Glacier,Oct,Concessioner Lodging,0
+Glacier,Oct,Concessioner Camping,0
+Glacier,Oct,Tent Campers,915
+Glacier,Oct,RV Campers,1953
+Glacier,Oct,Backcountry Campers,570
+Glacier,Nov,Misc Overnight Stay,0
+Glacier,Nov,Concessioner Lodging,0
+Glacier,Nov,Concessioner Camping,0
+Glacier,Nov,Tent Campers,68
+Glacier,Nov,RV Campers,144
+Glacier,Nov,Backcountry Campers,41
+Glacier,Dec,Misc Overnight Stay,0
+Glacier,Dec,Concessioner Lodging,0
+Glacier,Dec,Concessioner Camping,0
+Glacier,Dec,Tent Campers,12
+Glacier,Dec,RV Campers,9
+Glacier,Dec,Backcountry Campers,26
+Joshua Tree,Jan,Misc Overnight Stay,105
+Joshua Tree,Jan,Concessioner Lodging,0
+Joshua Tree,Jan,Concessioner Camping,536
+Joshua Tree,Jan,Tent Campers,498
+Joshua Tree,Jan,RV Campers,0
+Joshua Tree,Jan,Backcountry Campers,0
+Joshua Tree,Feb,Misc Overnight Stay,3537
+Joshua Tree,Feb,Concessioner Lodging,0
+Joshua Tree,Feb,Concessioner Camping,0
+Joshua Tree,Feb,Tent Campers,19804
+Joshua Tree,Feb,RV Campers,11541
+Joshua Tree,Feb,Backcountry Campers,2018
+Joshua Tree,Mar,Misc Overnight Stay,7848
+Joshua Tree,Mar,Concessioner Lodging,0
+Joshua Tree,Mar,Concessioner Camping,0
+Joshua Tree,Mar,Tent Campers,30796
+Joshua Tree,Mar,RV Campers,12900
+Joshua Tree,Mar,Backcountry Campers,3487
+Joshua Tree,Apr,Misc Overnight Stay,8042
+Joshua Tree,Apr,Concessioner Lodging,0
+Joshua Tree,Apr,Concessioner Camping,0
+Joshua Tree,Apr,Tent Campers,31860
+Joshua Tree,Apr,RV Campers,10572
+Joshua Tree,Apr,Backcountry Campers,2776
+Joshua Tree,May,Misc Overnight Stay,6246
+Joshua Tree,May,Concessioner Lodging,0
+Joshua Tree,May,Concessioner Camping,0
+Joshua Tree,May,Tent Campers,26676
+Joshua Tree,May,RV Campers,7521
+Joshua Tree,May,Backcountry Campers,840
+Joshua Tree,Jun,Misc Overnight Stay,3073
+Joshua Tree,Jun,Concessioner Lodging,0
+Joshua Tree,Jun,Concessioner Camping,0
+Joshua Tree,Jun,Tent Campers,9044
+Joshua Tree,Jun,RV Campers,1758
+Joshua Tree,Jun,Backcountry Campers,263
+Joshua Tree,Jul,Misc Overnight Stay,1670
+Joshua Tree,Jul,Concessioner Lodging,0
+Joshua Tree,Jul,Concessioner Camping,0
+Joshua Tree,Jul,Tent Campers,4208
+Joshua Tree,Jul,RV Campers,927
+Joshua Tree,Jul,Backcountry Campers,79
+Joshua Tree,Aug,Misc Overnight Stay,2101
+Joshua Tree,Aug,Concessioner Lodging,0
+Joshua Tree,Aug,Concessioner Camping,0
+Joshua Tree,Aug,Tent Campers,6720
+Joshua Tree,Aug,RV Campers,1101
+Joshua Tree,Aug,Backcountry Campers,86
+Joshua Tree,Sep,Misc Overnight Stay,3807
+Joshua Tree,Sep,Concessioner Lodging,0
+Joshua Tree,Sep,Concessioner Camping,0
+Joshua Tree,Sep,Tent Campers,11640
+Joshua Tree,Sep,RV Campers,2838
+Joshua Tree,Sep,Backcountry Campers,271
+Joshua Tree,Oct,Misc Overnight Stay,8360
+Joshua Tree,Oct,Concessioner Lodging,0
+Joshua Tree,Oct,Concessioner Camping,0
+Joshua Tree,Oct,Tent Campers,12208
+Joshua Tree,Oct,RV Campers,2961
+Joshua Tree,Oct,Backcountry Campers,1638
+Joshua Tree,Nov,Misc Overnight Stay,6858
+Joshua Tree,Nov,Concessioner Lodging,0
+Joshua Tree,Nov,Concessioner Camping,0
+Joshua Tree,Nov,Tent Campers,25120
+Joshua Tree,Nov,RV Campers,10758
+Joshua Tree,Nov,Backcountry Campers,2406
+Joshua Tree,Dec,Misc Overnight Stay,7008
+Joshua Tree,Dec,Concessioner Lodging,0
+Joshua Tree,Dec,Concessioner Camping,0
+Joshua Tree,Dec,Tent Campers,19630
+Joshua Tree,Dec,RV Campers,12405
+Joshua Tree,Dec,Backcountry Campers,1052
+Olympic,Jan,Concessioner Lodging,929
+Olympic,Jan,Tent Campers,956
+Olympic,Jan,RV Campers,1709
+Olympic,Jan,Concessioner Camping,0
+Olympic,Jan,Backcountry Campers,172
+Olympic,Jan,Misc Overnight Stay,0
+Olympic,Feb,Concessioner Lodging,2197
+Olympic,Feb,Tent Campers,753
+Olympic,Feb,RV Campers,1212
+Olympic,Feb,Concessioner Camping,0
+Olympic,Feb,Backcountry Campers,179
+Olympic,Feb,Misc Overnight Stay,0
+Olympic,Mar,Concessioner Lodging,1471
+Olympic,Mar,Tent Campers,3495
+Olympic,Mar,RV Campers,2493
+Olympic,Mar,Concessioner Camping,0
+Olympic,Mar,Backcountry Campers,590
+Olympic,Mar,Misc Overnight Stay,0
+Olympic,Apr,Concessioner Lodging,1628
+Olympic,Apr,Tent Campers,5005
+Olympic,Apr,RV Campers,3886
+Olympic,Apr,Concessioner Camping,0
+Olympic,Apr,Backcountry Campers,1598
+Olympic,Apr,Misc Overnight Stay,0
+Olympic,May,Concessioner Lodging,2363
+Olympic,May,Tent Campers,6760
+Olympic,May,RV Campers,5684
+Olympic,May,Concessioner Camping,67
+Olympic,May,Backcountry Campers,3536
+Olympic,May,Misc Overnight Stay,0
+Olympic,Jun,Concessioner Lodging,7342
+Olympic,Jun,Tent Campers,23382
+Olympic,Jun,RV Campers,19901
+Olympic,Jun,Concessioner Camping,1771
+Olympic,Jun,Backcountry Campers,6043
+Olympic,Jun,Misc Overnight Stay,0
+Olympic,Jul,Concessioner Lodging,11307
+Olympic,Jul,Tent Campers,42463
+Olympic,Jul,RV Campers,19451
+Olympic,Jul,Concessioner Camping,5306
+Olympic,Jul,Backcountry Campers,46614
+Olympic,Jul,Misc Overnight Stay,0
+Olympic,Aug,Concessioner Lodging,11706
+Olympic,Aug,Tent Campers,43217
+Olympic,Aug,RV Campers,20930
+Olympic,Aug,Concessioner Camping,4315
+Olympic,Aug,Backcountry Campers,55945
+Olympic,Aug,Misc Overnight Stay,27
+Olympic,Sep,Concessioner Lodging,11091
+Olympic,Sep,Tent Campers,19910
+Olympic,Sep,RV Campers,13704
+Olympic,Sep,Concessioner Camping,1438
+Olympic,Sep,Backcountry Campers,20428
+Olympic,Sep,Misc Overnight Stay,21
+Olympic,Oct,Concessioner Lodging,6505
+Olympic,Oct,Tent Campers,5515
+Olympic,Oct,RV Campers,3431
+Olympic,Oct,Concessioner Camping,1375
+Olympic,Oct,Backcountry Campers,2409
+Olympic,Oct,Misc Overnight Stay,3
+Olympic,Nov,Concessioner Lodging,2974
+Olympic,Nov,Tent Campers,1782
+Olympic,Nov,RV Campers,668
+Olympic,Nov,Concessioner Camping,0
+Olympic,Nov,Backcountry Campers,444
+Olympic,Nov,Misc Overnight Stay,3
+Olympic,Dec,Concessioner Lodging,4037
+Olympic,Dec,Tent Campers,928
+Olympic,Dec,RV Campers,200
+Olympic,Dec,Concessioner Camping,0
+Olympic,Dec,Backcountry Campers,182
+Olympic,Dec,Misc Overnight Stay,0
+Cuyahoga Valley,Jan,Concessioner Lodging,218
+Cuyahoga Valley,Jan,Tent Campers,0
+Cuyahoga Valley,Jan,RV Campers,0
+Cuyahoga Valley,Jan,Concessioner Camping,0
+Cuyahoga Valley,Jan,Backcountry Campers,0
+Cuyahoga Valley,Jan,Misc Overnight Stay,0
+Cuyahoga Valley,Feb,Concessioner Lodging,104
+Cuyahoga Valley,Feb,Tent Campers,0
+Cuyahoga Valley,Feb,RV Campers,0
+Cuyahoga Valley,Feb,Concessioner Camping,0
+Cuyahoga Valley,Feb,Backcountry Campers,0
+Cuyahoga Valley,Feb,Misc Overnight Stay,0
+Cuyahoga Valley,Mar,Concessioner Lodging,229
+Cuyahoga Valley,Mar,Tent Campers,0
+Cuyahoga Valley,Mar,RV Campers,0
+Cuyahoga Valley,Mar,Concessioner Camping,0
+Cuyahoga Valley,Mar,Backcountry Campers,0
+Cuyahoga Valley,Mar,Misc Overnight Stay,0
+Cuyahoga Valley,Apr,Concessioner Lodging,474
+Cuyahoga Valley,Apr,Tent Campers,0
+Cuyahoga Valley,Apr,RV Campers,0
+Cuyahoga Valley,Apr,Concessioner Camping,0
+Cuyahoga Valley,Apr,Backcountry Campers,0
+Cuyahoga Valley,Apr,Misc Overnight Stay,0
+Cuyahoga Valley,May,Concessioner Lodging,449
+Cuyahoga Valley,May,Tent Campers,0
+Cuyahoga Valley,May,RV Campers,0
+Cuyahoga Valley,May,Concessioner Camping,0
+Cuyahoga Valley,May,Backcountry Campers,0
+Cuyahoga Valley,May,Misc Overnight Stay,0
+Cuyahoga Valley,Jun,Concessioner Lodging,673
+Cuyahoga Valley,Jun,Tent Campers,0
+Cuyahoga Valley,Jun,RV Campers,0
+Cuyahoga Valley,Jun,Concessioner Camping,0
+Cuyahoga Valley,Jun,Backcountry Campers,0
+Cuyahoga Valley,Jun,Misc Overnight Stay,0
+Cuyahoga Valley,Jul,Concessioner Lodging,632
+Cuyahoga Valley,Jul,Tent Campers,0
+Cuyahoga Valley,Jul,RV Campers,0
+Cuyahoga Valley,Jul,Concessioner Camping,0
+Cuyahoga Valley,Jul,Backcountry Campers,0
+Cuyahoga Valley,Jul,Misc Overnight Stay,0
+Cuyahoga Valley,Aug,Concessioner Lodging,895
+Cuyahoga Valley,Aug,Tent Campers,0
+Cuyahoga Valley,Aug,RV Campers,0
+Cuyahoga Valley,Aug,Concessioner Camping,0
+Cuyahoga Valley,Aug,Backcountry Campers,0
+Cuyahoga Valley,Aug,Misc Overnight Stay,0
+Cuyahoga Valley,Sep,Concessioner Lodging,600
+Cuyahoga Valley,Sep,Tent Campers,0
+Cuyahoga Valley,Sep,RV Campers,0
+Cuyahoga Valley,Sep,Concessioner Camping,0
+Cuyahoga Valley,Sep,Backcountry Campers,0
+Cuyahoga Valley,Sep,Misc Overnight Stay,0
+Cuyahoga Valley,Oct,Concessioner Lodging,458
+Cuyahoga Valley,Oct,Tent Campers,0
+Cuyahoga Valley,Oct,RV Campers,0
+Cuyahoga Valley,Oct,Concessioner Camping,0
+Cuyahoga Valley,Oct,Backcountry Campers,0
+Cuyahoga Valley,Oct,Misc Overnight Stay,0
+Cuyahoga Valley,Nov,Concessioner Lodging,311
+Cuyahoga Valley,Nov,Tent Campers,0
+Cuyahoga Valley,Nov,RV Campers,0
+Cuyahoga Valley,Nov,Concessioner Camping,0
+Cuyahoga Valley,Nov,Backcountry Campers,0
+Cuyahoga Valley,Nov,Misc Overnight Stay,0
+Cuyahoga Valley,Dec,Concessioner Lodging,348
+Cuyahoga Valley,Dec,Tent Campers,0
+Cuyahoga Valley,Dec,RV Campers,0
+Cuyahoga Valley,Dec,Concessioner Camping,0
+Cuyahoga Valley,Dec,Backcountry Campers,0
+Cuyahoga Valley,Dec,Misc Overnight Stay,0
+Hot Springs,Jan,Concessioner Lodging,0
+Hot Springs,Jan,Tent Campers,78
+Hot Springs,Jan,RV Campers,1337
+Hot Springs,Jan,Concessioner Camping,0
+Hot Springs,Jan,Backcountry Campers,0
+Hot Springs,Jan,Misc Overnight Stay,0
+Hot Springs,Feb,Concessioner Lodging,0
+Hot Springs,Feb,Tent Campers,20
+Hot Springs,Feb,RV Campers,1558
+Hot Springs,Feb,Concessioner Camping,0
+Hot Springs,Feb,Backcountry Campers,0
+Hot Springs,Feb,Misc Overnight Stay,0
+Hot Springs,Mar,Concessioner Lodging,0
+Hot Springs,Mar,Tent Campers,68
+Hot Springs,Mar,RV Campers,2481
+Hot Springs,Mar,Concessioner Camping,0
+Hot Springs,Mar,Backcountry Campers,0
+Hot Springs,Mar,Misc Overnight Stay,0
+Hot Springs,Apr,Concessioner Lodging,0
+Hot Springs,Apr,Tent Campers,15
+Hot Springs,Apr,RV Campers,2711
+Hot Springs,Apr,Concessioner Camping,0
+Hot Springs,Apr,Backcountry Campers,0
+Hot Springs,Apr,Misc Overnight Stay,0
+Hot Springs,May,Concessioner Lodging,0
+Hot Springs,May,Tent Campers,25
+Hot Springs,May,RV Campers,3107
+Hot Springs,May,Concessioner Camping,0
+Hot Springs,May,Backcountry Campers,0
+Hot Springs,May,Misc Overnight Stay,0
+Hot Springs,Jun,Concessioner Lodging,0
+Hot Springs,Jun,Tent Campers,80
+Hot Springs,Jun,RV Campers,3259
+Hot Springs,Jun,Concessioner Camping,0
+Hot Springs,Jun,Backcountry Campers,0
+Hot Springs,Jun,Misc Overnight Stay,0
+Hot Springs,Jul,Concessioner Lodging,0
+Hot Springs,Jul,Tent Campers,120
+Hot Springs,Jul,RV Campers,3876
+Hot Springs,Jul,Concessioner Camping,0
+Hot Springs,Jul,Backcountry Campers,0
+Hot Springs,Jul,Misc Overnight Stay,0
+Hot Springs,Aug,Concessioner Lodging,0
+Hot Springs,Aug,Tent Campers,367
+Hot Springs,Aug,RV Campers,3127
+Hot Springs,Aug,Concessioner Camping,0
+Hot Springs,Aug,Backcountry Campers,0
+Hot Springs,Aug,Misc Overnight Stay,0
+Hot Springs,Sep,Concessioner Lodging,0
+Hot Springs,Sep,Tent Campers,115
+Hot Springs,Sep,RV Campers,3133
+Hot Springs,Sep,Concessioner Camping,0
+Hot Springs,Sep,Backcountry Campers,0
+Hot Springs,Sep,Misc Overnight Stay,0
+Hot Springs,Oct,Concessioner Lodging,0
+Hot Springs,Oct,Tent Campers,110
+Hot Springs,Oct,RV Campers,2404
+Hot Springs,Oct,Concessioner Camping,0
+Hot Springs,Oct,Backcountry Campers,0
+Hot Springs,Oct,Misc Overnight Stay,0
+Hot Springs,Nov,Concessioner Lodging,0
+Hot Springs,Nov,Tent Campers,57
+Hot Springs,Nov,RV Campers,2267
+Hot Springs,Nov,Concessioner Camping,0
+Hot Springs,Nov,Backcountry Campers,0
+Hot Springs,Nov,Misc Overnight Stay,0
+Hot Springs,Dec,Concessioner Lodging,0
+Hot Springs,Dec,Tent Campers,124
+Hot Springs,Dec,RV Campers,2209
+Hot Springs,Dec,Concessioner Camping,0
+Hot Springs,Dec,Backcountry Campers,0
+Hot Springs,Dec,Misc Overnight Stay,0
+Bryce Canyon,Jan,Concessioner Lodging,8
+Bryce Canyon,Jan,Tent Campers,444
+Bryce Canyon,Jan,RV Campers,230
+Bryce Canyon,Jan,Concessioner Camping,0
+Bryce Canyon,Jan,Backcountry Campers,8
+Bryce Canyon,Jan,Misc Overnight Stay,0
+Bryce Canyon,Feb,Concessioner Lodging,0
+Bryce Canyon,Feb,Tent Campers,266
+Bryce Canyon,Feb,RV Campers,202
+Bryce Canyon,Feb,Concessioner Camping,0
+Bryce Canyon,Feb,Backcountry Campers,3
+Bryce Canyon,Feb,Misc Overnight Stay,5
+Bryce Canyon,Mar,Concessioner Lodging,2012
+Bryce Canyon,Mar,Tent Campers,1070
+Bryce Canyon,Mar,RV Campers,763
+Bryce Canyon,Mar,Concessioner Camping,0
+Bryce Canyon,Mar,Backcountry Campers,29
+Bryce Canyon,Mar,Misc Overnight Stay,0
+Bryce Canyon,Apr,Concessioner Lodging,3700
+Bryce Canyon,Apr,Tent Campers,2556
+Bryce Canyon,Apr,RV Campers,2486
+Bryce Canyon,Apr,Concessioner Camping,0
+Bryce Canyon,Apr,Backcountry Campers,182
+Bryce Canyon,Apr,Misc Overnight Stay,0
+Bryce Canyon,May,Concessioner Lodging,4066
+Bryce Canyon,May,Tent Campers,5794
+Bryce Canyon,May,RV Campers,4375
+Bryce Canyon,May,Concessioner Camping,0
+Bryce Canyon,May,Backcountry Campers,713
+Bryce Canyon,May,Misc Overnight Stay,88
+Bryce Canyon,Jun,Concessioner Lodging,5742
+Bryce Canyon,Jun,Tent Campers,9501
+Bryce Canyon,Jun,RV Campers,6576
+Bryce Canyon,Jun,Concessioner Camping,0
+Bryce Canyon,Jun,Backcountry Campers,386
+Bryce Canyon,Jun,Misc Overnight Stay,410
+Bryce Canyon,Jul,Concessioner Lodging,6064
+Bryce Canyon,Jul,Tent Campers,10146
+Bryce Canyon,Jul,RV Campers,5112
+Bryce Canyon,Jul,Concessioner Camping,0
+Bryce Canyon,Jul,Backcountry Campers,142
+Bryce Canyon,Jul,Misc Overnight Stay,327
+Bryce Canyon,Aug,Concessioner Lodging,6261
+Bryce Canyon,Aug,Tent Campers,9390
+Bryce Canyon,Aug,RV Campers,4938
+Bryce Canyon,Aug,Concessioner Camping,0
+Bryce Canyon,Aug,Backcountry Campers,151
+Bryce Canyon,Aug,Misc Overnight Stay,269
+Bryce Canyon,Sep,Concessioner Lodging,4596
+Bryce Canyon,Sep,Tent Campers,6645
+Bryce Canyon,Sep,RV Campers,9096
+Bryce Canyon,Sep,Concessioner Camping,0
+Bryce Canyon,Sep,Backcountry Campers,337
+Bryce Canyon,Sep,Misc Overnight Stay,255
+Bryce Canyon,Oct,Concessioner Lodging,4124
+Bryce Canyon,Oct,Tent Campers,4056
+Bryce Canyon,Oct,RV Campers,3634
+Bryce Canyon,Oct,Concessioner Camping,0
+Bryce Canyon,Oct,Backcountry Campers,75
+Bryce Canyon,Oct,Misc Overnight Stay,133
+Bryce Canyon,Nov,Concessioner Lodging,1957
+Bryce Canyon,Nov,Tent Campers,1253
+Bryce Canyon,Nov,RV Campers,1274
+Bryce Canyon,Nov,Concessioner Camping,0
+Bryce Canyon,Nov,Backcountry Campers,31
+Bryce Canyon,Nov,Misc Overnight Stay,0
+Bryce Canyon,Dec,Concessioner Lodging,0
+Bryce Canyon,Dec,Tent Campers,403
+Bryce Canyon,Dec,RV Campers,365
+Bryce Canyon,Dec,Concessioner Camping,0
+Bryce Canyon,Dec,Backcountry Campers,6
+Bryce Canyon,Dec,Misc Overnight Stay,0

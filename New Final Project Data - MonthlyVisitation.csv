@@ -1,0 +1,361 @@
+National Park,Month,Total,Visitors,Visitor Type
+Great Smoky Mountains,Jan,525801,4572,Overnight
+Zion,Jan,172747,10078,Overnight
+Yellowstone,Jan,35338,1654,Overnight
+Grand Canyon,Jan,164922,24131,Overnight
+Rocky Mountain,Jan,140715,447,Overnight
+Acadia,Jan,20268,0,Overnight
+Grand Teton,Jan,66585,117,Overnight
+Yosemite,Jan,67284,0,Overnight
+Indiana Dunes,Jan,86065,0,Overnight
+Glacier,Jan,23417,146,Overnight
+Great Smoky Mountains,Feb,502459,2475,Overnight
+Zion,Feb,160232,10592,Overnight
+Yellowstone,Feb,36897,1481,Overnight
+Grand Canyon,Feb,161428,27850,Overnight
+Rocky Mountain,Feb,133771,503,Overnight
+Acadia,Feb,16123,0,Overnight
+Grand Teton,Feb,53108,30,Overnight
+Yosemite,Feb,128222,15153,Overnight
+Indiana Dunes,Feb,93430,0,Overnight
+Glacier,Feb,17238,70,Overnight
+Great Smoky Mountains,Mar,931060,17203,Overnight
+Zion,Mar,429455,24118,Overnight
+Yellowstone,Mar,35611,1836,Overnight
+Grand Canyon,Mar,317054,71057,Overnight
+Rocky Mountain,Mar,155819,851,Overnight
+Acadia,Mar,38060,0,Overnight
+Grand Teton,Mar,74754,142,Overnight
+Yosemite,Mar,159906,29912,Overnight
+Indiana Dunes,Mar,171050,0,Overnight
+Glacier,Mar,30976,216,Overnight
+Great Smoky Mountains,Apr,1169469,51038,Overnight
+Zion,Apr,469775,28839,Overnight
+Yellowstone,Apr,67508,2816,Overnight
+Grand Canyon,Apr,421232,80538,Overnight
+Rocky Mountain,Apr,183792,2730,Overnight
+Acadia,Apr,110096,0,Overnight
+Grand Teton,Apr,87739,420,Overnight
+Yosemite,Apr,257158,70949,Overnight
+Indiana Dunes,Apr,234442,3568,Overnight
+Glacier,Apr,53134,630,Overnight
+Great Smoky Mountains,May,1363183,68039,Overnight
+Zion,May,610301,32500,Overnight
+Yellowstone,May,473799,46499,Overnight
+Grand Canyon,May,484442,109595,Overnight
+Rocky Mountain,May,335060,8451,Overnight
+Acadia,May,324654,10471,Overnight
+Grand Teton,May,364876,47570,Overnight
+Yosemite,May,348006,92340,Overnight
+Indiana Dunes,May,396362,4076,Overnight
+Glacier,May,175277,10348,Overnight
+Great Smoky Mountains,Jun,1539247,79597,Overnight
+Zion,Jun,675799,32946,Overnight
+Yellowstone,Jun,938845,190907,Overnight
+Grand Canyon,Jun,538530,128620,Overnight
+Rocky Mountain,Jun,671232,24568,Overnight
+Acadia,Jun,661919,24435,Overnight
+Grand Teton,Jun,757897,135787,Overnight
+Yosemite,Jun,429980,166134,Overnight
+Indiana Dunes,Jun,319611,4439,Overnight
+Glacier,Jun,587237,52241,Overnight
+Great Smoky Mountains,Jul,1730987,65921,Overnight
+Zion,Jul,581496,39832,Overnight
+Yellowstone,Jul,1080767,278184,Overnight
+Grand Canyon,Jul,556766,110829,Overnight
+Rocky Mountain,Jul,904767,30530,Overnight
+Acadia,Jul,782146,38405,Overnight
+Grand Teton,Jul,835846,160587,Overnight
+Yosemite,Jul,509874,184151,Overnight
+Indiana Dunes,Jul,594272,4235,Overnight
+Glacier,Jul,796868,77980,Overnight
+Great Smoky Mountains,Aug,1398161,48584,Overnight
+Zion,Aug,466928,37697,Overnight
+Yellowstone,Aug,921844,256667,Overnight
+Grand Canyon,Aug,430684,89390,Overnight
+Rocky Mountain,Aug,746343,28457,Overnight
+Acadia,Aug,795437,38344,Overnight
+Grand Teton,Aug,703118,154719,Overnight
+Yosemite,Aug,432038,170131,Overnight
+Indiana Dunes,Aug,437313,5878,Overnight
+Glacier,Aug,670628,73096,Overnight
+Great Smoky Mountains,Sep,1355599,46367,Overnight
+Zion,Sep,483180,31246,Overnight
+Yellowstone,Sep,882078,186388,Overnight
+Grand Canyon,Sep,399321,101713,Overnight
+Rocky Mountain,Sep,521233,20359,Overnight
+Acadia,Sep,667301,28721,Overnight
+Grand Teton,Sep,579888,119653,Overnight
+Yosemite,Sep,356030,147887,Overnight
+Indiana Dunes,Sep,343696,4777,Overnight
+Glacier,Sep,533388,40493,Overnight
+Great Smoky Mountains,Oct,1633547,63729,Overnight
+Zion,Oct,469379,27283,Overnight
+Yellowstone,Oct,316662,38693,Overnight
+Grand Canyon,Oct,430734,90438,Overnight
+Rocky Mountain,Oct,352736,8192,Overnight
+Acadia,Oct,557624,11273,Overnight
+Grand Teton,Oct,247945,15089,Overnight
+Yosemite,Oct,284611,86088,Overnight
+Indiana Dunes,Oct,253640,2393,Overnight
+Glacier,Oct,149564,3438,Overnight
+Great Smoky Mountains,Nov,1155227,26217,Overnight
+Zion,Nov,308560,19074,Overnight
+Yellowstone,Nov,33144,3280,Overnight
+Grand Canyon,Nov,346971,63776,Overnight
+Rocky Mountain,Nov,164992,1759,Overnight
+Acadia,Nov,81089,0,Overnight
+Grand Teton,Nov,61674,0,Overnight
+Yosemite,Nov,185213,60829,Overnight
+Indiana Dunes,Nov,144881,25,Overnight
+Glacier,Nov,26300,252,Overnight
+Great Smoky Mountains,Dec,856808,6734,Overnight
+Zion,Dec,211983,12942,Overnight
+Yellowstone,Dec,37749,5788,Overnight
+Grand Canyon,Dec,280593,49365,Overnight
+Rocky Mountain,Dec,124388,605,Overnight
+Acadia,Dec,14381,0,Overnight
+Grand Teton,Dec,51800,110,Overnight
+Yosemite,Dec,129273,41898,Overnight
+Indiana Dunes,Dec,102448,0,Overnight
+Glacier,Dec,17629,48,Overnight
+Great Smoky Mountains,Jan,525801,521229,Day-Only
+Zion,Jan,172747,162669,Day-Only
+Yellowstone,Jan,35338,33684,Day-Only
+Grand Canyon,Jan,164922,140791,Day-Only
+Rocky Mountain,Jan,140715,140268,Day-Only
+Acadia,Jan,20268,20268,Day-Only
+Grand Teton,Jan,66585,66468,Day-Only
+Yosemite,Jan,67284,67284,Day-Only
+Indiana Dunes,Jan,86065,86065,Day-Only
+Glacier,Jan,23417,23271,Day-Only
+Great Smoky Mountains,Feb,502459,499984,Day-Only
+Zion,Feb,160232,149640,Day-Only
+Yellowstone,Feb,36897,35416,Day-Only
+Grand Canyon,Feb,161428,133578,Day-Only
+Rocky Mountain,Feb,133771,133268,Day-Only
+Acadia,Feb,16123,16123,Day-Only
+Grand Teton,Feb,53108,53078,Day-Only
+Yosemite,Feb,128222,113069,Day-Only
+Indiana Dunes,Feb,93430,93430,Day-Only
+Glacier,Feb,17238,17168,Day-Only
+Great Smoky Mountains,Mar,931060,913857,Day-Only
+Zion,Mar,429455,405337,Day-Only
+Yellowstone,Mar,35611,33775,Day-Only
+Grand Canyon,Mar,317054,245997,Day-Only
+Rocky Mountain,Mar,155819,154968,Day-Only
+Acadia,Mar,38060,38060,Day-Only
+Grand Teton,Mar,74754,74612,Day-Only
+Yosemite,Mar,159906,129994,Day-Only
+Indiana Dunes,Mar,171050,171050,Day-Only
+Glacier,Mar,30976,30760,Day-Only
+Great Smoky Mountains,Apr,1169469,1118431,Day-Only
+Zion,Apr,469775,440936,Day-Only
+Yellowstone,Apr,67508,64692,Day-Only
+Grand Canyon,Apr,421232,340694,Day-Only
+Rocky Mountain,Apr,183792,181062,Day-Only
+Acadia,Apr,110096,110096,Day-Only
+Grand Teton,Apr,87739,87319,Day-Only
+Yosemite,Apr,257158,186209,Day-Only
+Indiana Dunes,Apr,234442,230874,Day-Only
+Glacier,Apr,53134,52504,Day-Only
+Great Smoky Mountains,May,1363183,1295144,Day-Only
+Zion,May,610301,577801,Day-Only
+Yellowstone,May,473799,427300,Day-Only
+Grand Canyon,May,484442,374847,Day-Only
+Rocky Mountain,May,335060,326609,Day-Only
+Acadia,May,324654,314183,Day-Only
+Grand Teton,May,364876,317306,Day-Only
+Yosemite,May,348006,255666,Day-Only
+Indiana Dunes,May,396362,392286,Day-Only
+Glacier,May,175277,164929,Day-Only
+Great Smoky Mountains,Jun,1539247,1459650,Day-Only
+Zion,Jun,675799,642853,Day-Only
+Yellowstone,Jun,938845,747938,Day-Only
+Grand Canyon,Jun,538530,409910,Day-Only
+Rocky Mountain,Jun,671232,646664,Day-Only
+Acadia,Jun,661919,637484,Day-Only
+Grand Teton,Jun,757897,622110,Day-Only
+Yosemite,Jun,429980,263846,Day-Only
+Indiana Dunes,Jun,319611,315172,Day-Only
+Glacier,Jun,587237,534996,Day-Only
+Great Smoky Mountains,Jul,1730987,1665066,Day-Only
+Zion,Jul,581496,541664,Day-Only
+Yellowstone,Jul,1080767,802583,Day-Only
+Grand Canyon,Jul,556766,445937,Day-Only
+Rocky Mountain,Jul,904767,874237,Day-Only
+Acadia,Jul,782146,743741,Day-Only
+Grand Teton,Jul,835846,675259,Day-Only
+Yosemite,Jul,509874,325723,Day-Only
+Indiana Dunes,Jul,594272,590037,Day-Only
+Glacier,Jul,796868,718888,Day-Only
+Great Smoky Mountains,Aug,1398161,1349577,Day-Only
+Zion,Aug,466928,429231,Day-Only
+Yellowstone,Aug,921844,665177,Day-Only
+Grand Canyon,Aug,430684,341294,Day-Only
+Rocky Mountain,Aug,746343,717886,Day-Only
+Acadia,Aug,795437,757093,Day-Only
+Grand Teton,Aug,703118,548399,Day-Only
+Yosemite,Aug,432038,261907,Day-Only
+Indiana Dunes,Aug,437313,431435,Day-Only
+Glacier,Aug,670628,597532,Day-Only
+Great Smoky Mountains,Sep,1355599,1309232,Day-Only
+Zion,Sep,483180,451934,Day-Only
+Yellowstone,Sep,882078,695690,Day-Only
+Grand Canyon,Sep,399321,297608,Day-Only
+Rocky Mountain,Sep,521233,500874,Day-Only
+Acadia,Sep,667301,638580,Day-Only
+Grand Teton,Sep,579888,460235,Day-Only
+Yosemite,Sep,356030,208143,Day-Only
+Indiana Dunes,Sep,343696,338919,Day-Only
+Glacier,Sep,533388,492895,Day-Only
+Great Smoky Mountains,Oct,1633547,1569818,Day-Only
+Zion,Oct,469379,442096,Day-Only
+Yellowstone,Oct,316662,277969,Day-Only
+Grand Canyon,Oct,430734,340296,Day-Only
+Rocky Mountain,Oct,352736,344544,Day-Only
+Acadia,Oct,557624,546351,Day-Only
+Grand Teton,Oct,247945,232856,Day-Only
+Yosemite,Oct,284611,198523,Day-Only
+Indiana Dunes,Oct,253640,251247,Day-Only
+Glacier,Oct,149564,146126,Day-Only
+Great Smoky Mountains,Nov,1155227,1129010,Day-Only
+Zion,Nov,308560,289486,Day-Only
+Yellowstone,Nov,33144,29864,Day-Only
+Grand Canyon,Nov,346971,283195,Day-Only
+Rocky Mountain,Nov,164992,163233,Day-Only
+Acadia,Nov,81089,81089,Day-Only
+Grand Teton,Nov,61674,61674,Day-Only
+Yosemite,Nov,185213,124384,Day-Only
+Indiana Dunes,Nov,144881,144856,Day-Only
+Glacier,Nov,26300,26048,Day-Only
+Great Smoky Mountains,Dec,856808,850074,Day-Only
+Zion,Dec,211983,199041,Day-Only
+Yellowstone,Dec,37749,31961,Day-Only
+Grand Canyon,Dec,280593,231228,Day-Only
+Rocky Mountain,Dec,124388,123783,Day-Only
+Acadia,Dec,14381,14381,Day-Only
+Grand Teton,Dec,51800,51690,Day-Only
+Yosemite,Dec,129273,87375,Day-Only
+Indiana Dunes,Dec,102448,102448,Day-Only
+Glacier,Dec,17629,17581,Day-Only
+Joshua Tree,Jan,229995,1139,Overnight
+Joshua Tree,Feb,285687,36900,Overnight
+Joshua Tree,Mar,375049,55031,Overnight
+Joshua Tree,Apr,383735,53250,Overnight
+Joshua Tree,May,285611,41293,Overnight
+Joshua Tree,Jun,181050,14138,Overnight
+Joshua Tree,Jul,125568,6884,Overnight
+Joshua Tree,Aug,123163,9918,Overnight
+Joshua Tree,Sep,163241,18556,Overnight
+Joshua Tree,Oct,213088,25167,Overnight
+Joshua Tree,Nov,334802,45142,Overnight
+Joshua Tree,Dec,363411,40101,Overnight
+Joshua Tree,Jan,229995,228856,Day-Only
+Joshua Tree,Feb,285687,248787,Day-Only
+Joshua Tree,Mar,375049,320018,Day-Only
+Joshua Tree,Apr,383735,330485,Day-Only
+Joshua Tree,May,285611,244318,Day-Only
+Joshua Tree,Jun,181050,166912,Day-Only
+Joshua Tree,Jul,125568,118684,Day-Only
+Joshua Tree,Aug,123163,113245,Day-Only
+Joshua Tree,Sep,163241,144685,Day-Only
+Joshua Tree,Oct,213088,187921,Day-Only
+Joshua Tree,Nov,334802,289660,Day-Only
+Joshua Tree,Dec,363411,323310,Day-Only
+Olympic,Jan,74962,3766,Overnight
+Olympic,Feb,75915,4341,Overnight
+Olympic,Mar,116649,8049,Overnight
+Olympic,Apr,92336,12117,Overnight
+Olympic,May,110700,18410,Overnight
+Olympic,Jun,216260,58439,Overnight
+Olympic,Jul,534345,125140,Overnight
+Olympic,Aug,795063,136140,Overnight
+Olympic,Sep,334522,66592,Overnight
+Olympic,Oct,182884,19238,Overnight
+Olympic,Nov,103802,5870,Overnight
+Olympic,Dec,81487,5346,Overnight
+Olympic,Jan,74962,71196,Day-Only
+Olympic,Feb,75915,71574,Day-Only
+Olympic,Mar,116649,108600,Day-Only
+Olympic,Apr,92336,80219,Day-Only
+Olympic,May,110700,92290,Day-Only
+Olympic,Jun,216260,157821,Day-Only
+Olympic,Jul,534345,409205,Day-Only
+Olympic,Aug,795063,658923,Day-Only
+Olympic,Sep,334522,267930,Day-Only
+Olympic,Oct,182884,163646,Day-Only
+Olympic,Nov,103802,97932,Day-Only
+Olympic,Dec,81487,76141,Day-Only
+Cuyahoga Valley,Jan,86000,218,Overnight
+Cuyahoga Valley,Feb,91737,104,Overnight
+Cuyahoga Valley,Mar,182618,229,Overnight
+Cuyahoga Valley,Apr,224619,474,Overnight
+Cuyahoga Valley,May,241897,449,Overnight
+Cuyahoga Valley,Jun,307110,673,Overnight
+Cuyahoga Valley,Jul,300798,632,Overnight
+Cuyahoga Valley,Aug,317417,895,Overnight
+Cuyahoga Valley,Sep,266356,600,Overnight
+Cuyahoga Valley,Oct,264264,458,Overnight
+Cuyahoga Valley,Nov,177927,311,Overnight
+Cuyahoga Valley,Dec,114532,347,Overnight
+Cuyahoga Valley,Jan,86000,85782,Day-Only
+Cuyahoga Valley,Feb,91737,91633,Day-Only
+Cuyahoga Valley,Mar,182618,182389,Day-Only
+Cuyahoga Valley,Apr,224619,224145,Day-Only
+Cuyahoga Valley,May,241897,241448,Day-Only
+Cuyahoga Valley,Jun,307110,306437,Day-Only
+Cuyahoga Valley,Jul,300798,300166,Day-Only
+Cuyahoga Valley,Aug,317417,316522,Day-Only
+Cuyahoga Valley,Sep,266356,265756,Day-Only
+Cuyahoga Valley,Oct,264264,263806,Day-Only
+Cuyahoga Valley,Nov,177927,177616,Day-Only
+Cuyahoga Valley,Dec,114532,114185,Day-Only
+Hot Springs,Jan,62618,1415,Overnight
+Hot Springs,Feb,75786,1578,Overnight
+Hot Springs,Mar,128516,2549,Overnight
+Hot Springs,Apr,145067,2726,Overnight
+Hot Springs,May,311165,3132,Overnight
+Hot Springs,Jun,363083,3339,Overnight
+Hot Springs,Jul,382406,3996,Overnight
+Hot Springs,Aug,192985,3494,Overnight
+Hot Springs,Sep,144841,3248,Overnight
+Hot Springs,Oct,148573,2514,Overnight
+Hot Springs,Nov,118176,2324,Overnight
+Hot Springs,Dec,89668,2333,Overnight
+Hot Springs,Jan,62618,61203,Day-Only
+Hot Springs,Feb,75786,74208,Day-Only
+Hot Springs,Mar,128516,125967,Day-Only
+Hot Springs,Apr,145067,142341,Day-Only
+Hot Springs,May,311165,308033,Day-Only
+Hot Springs,Jun,363083,359744,Day-Only
+Hot Springs,Jul,382406,378410,Day-Only
+Hot Springs,Aug,192985,189491,Day-Only
+Hot Springs,Sep,144841,141593,Day-Only
+Hot Springs,Oct,148573,146059,Day-Only
+Hot Springs,Nov,118176,115852,Day-Only
+Hot Springs,Dec,89668,87335,Day-Only
+Bryce Canyon,Jan,"37,725",690,Overnight
+Bryce Canyon,Feb,35653,476,Overnight
+Bryce Canyon,Mar,96800,3875,Overnight
+Bryce Canyon,Apr,201771,8924,Overnight
+Bryce Canyon,May,294862,15036,Overnight
+Bryce Canyon,Jun,369184,22615,Overnight
+Bryce Canyon,Jul,284523,21791,Overnight
+Bryce Canyon,Aug,191404,21009,Overnight
+Bryce Canyon,Sep,287185,20929,Overnight
+Bryce Canyon,Oct,183461,12022,Overnight
+Bryce Canyon,Nov,77501,4515,Overnight
+Bryce Canyon,Dec,44531,774,Overnight
+Bryce Canyon,Jan,37725,37035,Day-Only
+Bryce Canyon,Feb,35653,35177,Day-Only
+Bryce Canyon,Mar,96800,92925,Day-Only
+Bryce Canyon,Apr,201771,192847,Day-Only
+Bryce Canyon,May,294862,279826,Day-Only
+Bryce Canyon,Jun,369184,346569,Day-Only
+Bryce Canyon,Jul,284523,262732,Day-Only
+Bryce Canyon,Aug,191404,170395,Day-Only
+Bryce Canyon,Sep,287185,266256,Day-Only
+Bryce Canyon,Oct,183461,171439,Day-Only
+Bryce Canyon,Nov,77501,72986,Day-Only
+Bryce Canyon,Dec,44531,43757,Day-Only
